@@ -1,0 +1,29 @@
+/* .container-fuild {
+  height: 100vh;
+  width: 100vw;
+
+} */
+
+.footer {
+  position: fixed;
+  bottom: 20px;
+  width: 100%;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+.footer button {
+  margin: 5px;
+}
+
+.footer .btn-purple {
+  background-color: purple;
+  color: white;
+}
+
+.footer .btn-orange {
+  background-color: orange;
+  color: white;
+
+}
